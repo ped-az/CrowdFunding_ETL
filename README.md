@@ -34,7 +34,7 @@ For the Crowd Funding ETL mini project, we have collaborated in a group of three
 
 - 3.Crowd_Funding_Schema_QuickDBD.sql --> Near Duplicate from the sql_schema file 1. Contains the code exported from QuickDBD. 
 
-- Results Folder:  Based on the Postgres Query listed above, a MAster file was created to demonstrate all the elements ran successfully. 
+- Results Folder:  Based on the Postgres Query listed above, a Flat File was created to demonstrate all the elements ran successfully. 
 
 
 # Core Tasks: 
