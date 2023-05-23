@@ -1,7 +1,7 @@
 # Welcome to The Crowd Funding ETL Mini Project!
 
 # Crowd Funding ETL: 
-For the Crowd Funding ETL mini project, we have collaborated in a group of three team members and built an ETL pipeline using Python, Pandas, and =Python dictionary methods / regular expressions to extract and transform the data. After Transforming  the data, we created four CSV files and used them  to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database joining all the databases into a "Flat File".
+For the Crowd Funding ETL mini project, we have collaborated in a group of three team members and built an ETL pipeline using Python, Pandas, and Python dictionary methods / regular expressions to extract and transform the data. After Transforming  the data, we created four CSV files and used them  to create an ERD and a table schema. Finally, we uploaded the CSV file's data into a Postgres database joining all the databases into a "Flat File".
 
 # The Team / Contributors: 
     - Minh Phuong Nguyen
