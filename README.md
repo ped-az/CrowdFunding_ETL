@@ -1,7 +1,7 @@
 # Welcome to The Crowd Funding ETL Mini Project!
 
 # Crowd Funding ETL: 
-For the Crowd Funding ETL mini project, we have collaborated in a group of three team members and built an ETL pipeline using Python, Pandas, and Python dictionary methods / regular expressions to extract and transform the data. After Transforming  the data, we created four CSV files and used them  to create an ERD and a table schema. Finally, we uploaded the CSV file's data into a Postgres database joining all the databases into a "Flat File".
+For the Crowd Funding ETL Mini Project, we have collaborated in a group of three team members and built an ETL pipeline using Python, Pandas, and Python dictionary methods / regular expressions to extract and transform the data. After Transforming  the data, we created four CSV files and used them  to create an ERD and a table schema. Finally, we uploaded the CSV file's data into a Postgres database joining all the databases into a "Flat File".
 
 # The Team / Contributors: 
     - Minh Phuong Nguyen
@@ -28,7 +28,7 @@ For the Crowd Funding ETL mini project, we have collaborated in a group of three
 - Crowd_Funding_Schema_ERD.png --> File contains a visual representaiton of the final schema built on QuickDBD 
 
     
-- 1.Crowd_Funding_Schema_ERD.png --> Crowd_Fudning_Sql_Schema_File1.sql --> This SQL File contains the actual Schema used on Postgress to create the data tables which where later manually uploaded with the CSV Files created throughout the analysis located in the Resources Folder.
+- 1.Crowd_Funding_Schema_ERD.png --> Crowd_Fudning_Sql_Schema_File1.sql --> This SQL File contains the actual Schema used on Postgres to create the data tables which where later manually uploaded with the CSV Files created throughout the analysis located in the Resources Folder.
 
 - 2.Crowd_Funding_Sql_Extra_Info.sql --> File contains the SQL Code to check all the four tables were loaded correctly and create one final Masterfile merging all the data tables together. FOr this to run, we need to run section by section.
 
@@ -64,7 +64,7 @@ Task 1: Created a schema with appropiate Forward and Primary Keys Using QuickDBD
 
 ![Schema PNG](Crowd_Funding_Schema_ERD.png)
 
-Once all the Relationships (1:1 or 1:Many) were created we exported the code into Postgress. All the created CSV Files (Databases) were manually loaded into each respective table (Following the Crowd_Funding_Schema_ERD.png). 
+Once all the Relationships (1:1 or 1:Many) were created we exported the code into Postgres. All the created CSV Files (Databases) were manually loaded into each respective table (Following the Crowd_Funding_Schema_ERD.png). 
 
 We later ensured all the data was successfully imported by running the SQL code in the extra info file (Crowd_Funding_Sql_Extra_Info). 
 
